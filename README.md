@@ -19,7 +19,7 @@ Official website of Nexora Studios — a modern web design and development agenc
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://nexora-official-ebon.vercel.app/
 
 ## 👨‍💻 Developer
 
